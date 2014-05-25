@@ -20,26 +20,26 @@ Overview
 
 **Output**
 
-`month found` ਅਪ੍ਰੈਲ  Date is :  ੧੪ ਅਪ੍ਰੈਲ ੧੪੬੯
+`month found` ਅਪ੍ਰੈਲ  Date is :  **੧੪ ਅਪ੍ਰੈਲ ੧੪੬੯**
 
-`month found` ਨਵੰਬਰ  Date is :  ੧੨ ਨਵੰਬਰ ੨੦੦੭
+`month found` ਨਵੰਬਰ  Date is :  **੧੨ ਨਵੰਬਰ ੨੦੦੭**
 
-`date range found` ੧੫੬੪ ਤੋਂ ੧੫੭੨
+`date range found` **੧੫੬੪ ਤੋਂ ੧੫੭੨**
 
 `Object` {**from**: "੧੫੬੪ ", **to**: " ੧੫੭੨"}
 
-`date range found` ੧੫੦੭ ਤੋਂ ੧੫੧੫
+`date range found` **੧੫੦੭ ਤੋਂ ੧੫੧੫**
 
 `Object` {**from**: "੧੫੦੭ ", **to**: " ੧੫੧੫"}
 
-`date range found` ੧੫੧੭ ਤੋਂ ੧੫੧੮
+`date range found` **੧੫੧੭ ਤੋਂ ੧੫੧੮**
 
 `Object` {**from**: "੧੫੧੭ ", **to**: " ੧੫੧੮"}
 
-`date range found` ੧੫੧੮ ਤੋਂ ੧੫੨੧
+`date range found` **੧੫੧੮ ਤੋਂ ੧੫੨੧**
 
 `Object` {**from**: "੧੫੧੮ ", **to**: " ੧੫੨੧"}
 
-`month found` ਨਵੰਬਰ  Date is :  ੧੩ ਨਵੰਬਰ ੨੦੦੭
+`month found` ਨਵੰਬਰ  Date is :  **੧੩ ਨਵੰਬਰ ੨੦੦੭**
 
 
